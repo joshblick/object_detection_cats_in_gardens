@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>6.jpg</filename>
+	<path>C:\Users\paperspace\Documents\Tensorflow\workspace\cats_practice_resnet\images\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>53</ymin>
+			<xmax>499</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
